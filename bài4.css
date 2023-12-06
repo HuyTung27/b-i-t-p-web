@@ -1,0 +1,52 @@
+h1{
+    background-color: blueviolet;
+    color: white;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    margin: 100px;
+}
+.anh{
+    display: flex;
+}
+html{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6qruchI4q9fic1AEoK8yo3fR9MMFrulJv1g&usqp=CAU);
+    font-family: 'Roboto Slab', serif;
+}
+.nghieng{
+    font-style: italic;
+    background-color: bisque;
+    font-size: larger;
+}
+h2{
+    color: rgb(185, 18, 18)
+}
+table{
+    width: 70%;
+}
+th,td,tr{
+    border: 2px  solid red;
+}
+th{
+    background-color: rgb(237, 237, 32);
+}
+li {
+    background-color: aquamarine;
+    color: rgb(102, 25, 123);
+    width: 300px;
+    font-style: bold;
+}
+li a{
+    text-decoration: none;
+    color: rgb(102, 25, 123);
+}
+li a:hover {
+    color: rgb(255, 0, 0);
+}
+li:hover{
+    color: rgb(255, 0, 0);
+}
+.bold{
+    font: size 20px;
+    font-style: bold;
+}
